@@ -10,3 +10,8 @@ open source code and other tools industry professionals rely on.
 */
 
 Challenges are posted at : https://techdevguide.withgoogle.com/paths/advanced/
+
+
+I'll be using javascript to solve the challenges. 
+
+Feel free to test the code and/or point out bugs.
