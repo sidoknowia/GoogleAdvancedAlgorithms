@@ -26,7 +26,6 @@ Brackets are only part of syntax of writing repeated substring.
 
 Input is always valid, so no need to check its validity. */
 
-//console.log("Hi");
 var op_object = {
 	'brackets' : [],
 	'numbers' : [],
@@ -38,7 +37,8 @@ var compressed = "";
 var decompresses = function(c = ""){
 	console.log(c);
 	compressed = c;
-	// A bit more validation is what is needed.
+	// A bit more validation is needed.
+	
 	if(compressed){ 
 		op_object.str_array = compressed.split("");
 		console.log(op_object.str_array)
